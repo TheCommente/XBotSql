@@ -36,7 +36,7 @@ XbotApp/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/XbotApp.git
+   git clone https://github.com/TheCommente/XbotApp.git
    cd XbotApp
    ```
 
